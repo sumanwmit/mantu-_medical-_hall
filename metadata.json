@@ -1,0 +1,6 @@
+{
+  "name": "Mantu Medical Hall",
+  "description": "Your Trusted Medical Store in Jehanabad for Genuine Medicines, Healthcare Products, Surgical Supplies, & Baby Care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
