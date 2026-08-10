@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mantu-medical-hall.vercel.app/sitemap.xml
